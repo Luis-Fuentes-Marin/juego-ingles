@@ -1,2 +1,0 @@
-# juego-ingles
-ingles
